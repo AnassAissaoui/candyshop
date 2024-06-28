@@ -189,6 +189,23 @@ footer{
 article{
     width: 20%;
     height: 100%;
+    position: relative;
+}
+
+.heart{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    font-size: x-large;
+    color: red;
+}
+
+.cart{
+    position: absolute;
+    top: 45%;
+    right: 5%;
+    font-size: x-large;
+    color: black;
 }
 
 .appli{
